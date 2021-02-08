@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.container{
+    background-color: rgb(253, 253, 93,0.6);
+    border-radius: 1rem;
+}
